@@ -4,3 +4,25 @@
 .box {
 	text-align: right;
 }
+.box3{
+	border: 12px solid red;
+	border-radius: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin: 70px 50px;
+    margin: 20px  30px 40px 50px;
+}
+ul{
+	list-style: none;
+}
+a{text-decoration: none;
+}
+.navigation-a{
+	color: blue;
+	font-size: 22px;
+	
+
+}
+.orange{
+	color: orange;
+}
